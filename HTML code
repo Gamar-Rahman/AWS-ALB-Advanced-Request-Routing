@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Super User</title>
+</head>
+<body>
+<p>
+<img width="400" src="https://labresources.whizlabs.com/92a9ca7235acf4a0ad31e9c76c42b92d/whiz-logo_07_38.png"/>
+</p>
+<br/>
+<h1>Welcome to Super User Page</h1>
+</body>
+<style>
+body {
+    text-align: center;
+    background-color: black;
+    Color : white;
+}
+</style>
+</html>
+
+
+<html>
+<head>
+<title>User</title>
+</head>
+<body>
+<p>
+<img width="400" src="https://labresources.whizlabs.com/92a9ca7235acf4a0ad31e9c76c42b92d/whiz-logo_07_38.png"/>
+</p>
+<br/>
+<h1>Welcome to Amazon Page</h1>
+</body>
+<style>
+body {
+    text-align: center;
+    background-color: black;
+    Color : white;
+}
+</style>
+</html>
+
+
